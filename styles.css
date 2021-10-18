@@ -19,20 +19,25 @@
 #faute{
     height: 49%;
     width: 49%;
+    position: relative;
 }
 #modifié{
-    position: relative;
     width: 100%;
-    height: auto;
-    display:none;
-    
+    height: auto; 
 }
 
 #erreur{
     /* width: 100%;
     height: auto; */
     position:absolute;
-    display:none;
-    margin-left: 25%;
-    margin-top: 17%;
+    left: 55%;
+    top: 60%;
+    opacity: 0;
 }
+
+
+
+
+
+
+
